@@ -1,7 +1,7 @@
 
 FROM ubuntu:22.04
 
-MAINTAINER Raja Batra "youremail@domain.tld"
+MAINTAINER Raja Batra "rbatra@hmc.edu"
 
 RUN apt-get update -y && \
     apt-get install -y python3-pip python3-dev
